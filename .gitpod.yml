@@ -10,3 +10,5 @@ tasks:
 vscode:
   extensions:
     - Ionide.Ionide-fsharp
+    # https://open-vsx.org/extension/muhammad-sammy/csharp - the microsoft one isnt on there, i guess this guy ported it to open-vsx.org
+    - muhammad-sammy.csharp
